@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  background-color: #070504;
+  color: #fef3c7;
+}
+
+.font-serif {
+  font-family: 'Playfair Display', Georgia, Cambria, 'Times New Roman', serif;
+}
